@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>HEAL_007_2019_jpeg.rf.6e1f7b9a16a4850900281f98e531937f.jpg</filename>
+	<path>HEAL_007_2019_jpeg.rf.6e1f7b9a16a4850900281f98e531937f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

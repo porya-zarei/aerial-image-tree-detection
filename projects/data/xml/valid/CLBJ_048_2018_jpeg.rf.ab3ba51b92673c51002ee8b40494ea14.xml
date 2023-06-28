@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>CLBJ_048_2018_jpeg.rf.ab3ba51b92673c51002ee8b40494ea14.jpg</filename>
+	<path>CLBJ_048_2018_jpeg.rf.ab3ba51b92673c51002ee8b40494ea14.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

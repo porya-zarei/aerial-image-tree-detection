@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>BONA_010_2019_jpeg.rf.417597f69a08a55cb7366b7b136a59ec.jpg</filename>
+	<path>BONA_010_2019_jpeg.rf.417597f69a08a55cb7366b7b136a59ec.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ABBY_024_2019_jpeg.rf.8c36f61a949e0f75c27a66cce794349d.jpg</filename>
+	<path>ABBY_024_2019_jpeg.rf.8c36f61a949e0f75c27a66cce794349d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

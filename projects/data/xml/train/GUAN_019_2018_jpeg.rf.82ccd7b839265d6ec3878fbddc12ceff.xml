@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>GUAN_019_2018_jpeg.rf.82ccd7b839265d6ec3878fbddc12ceff.jpg</filename>
+	<path>GUAN_019_2018_jpeg.rf.82ccd7b839265d6ec3878fbddc12ceff.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

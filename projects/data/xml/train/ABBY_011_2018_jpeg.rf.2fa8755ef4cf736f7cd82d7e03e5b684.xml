@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ABBY_011_2018_jpeg.rf.2fa8755ef4cf736f7cd82d7e03e5b684.jpg</filename>
+	<path>ABBY_011_2018_jpeg.rf.2fa8755ef4cf736f7cd82d7e03e5b684.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree-top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>245</xmin>
+			<xmax>267</xmax>
+			<ymin>122</ymin>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DSNY_002_2018_jpeg.rf.2cdc23d2c939bc2aa6eff8f0737d9a79.jpg</filename>
+	<path>DSNY_002_2018_jpeg.rf.2cdc23d2c939bc2aa6eff8f0737d9a79.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tree-top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>327</xmin>
+			<xmax>399</xmax>
+			<ymin>309</ymin>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

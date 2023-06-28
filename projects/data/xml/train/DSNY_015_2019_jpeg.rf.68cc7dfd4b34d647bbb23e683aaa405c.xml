@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>DSNY_015_2019_jpeg.rf.68cc7dfd4b34d647bbb23e683aaa405c.jpg</filename>
+	<path>DSNY_015_2019_jpeg.rf.68cc7dfd4b34d647bbb23e683aaa405c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
